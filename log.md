@@ -1,30 +1,17 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 0: June 22, 2016
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Started my Nightlife Tracker app (for [this FCC challenge](https://www.freecodecamp.com/challenges/build-a-nightlife-coordination-app)) in earnest.
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts**: My first Angular app. So far so good.
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Link to work**: [Nightlife App](https://github.com/ubershibs/nightlife-tracker)
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+### Day 1: June 23, 2016
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: I've got login working, Yelp search results loading, and clicks recording as RSVPs... Not yet pulling click counts, or allowing users to remove RSVPs, but I think I should be able to finish this tomorrow, with a bit of time.
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** It feels like one hour a day is a vast underestimation of what I'll be able to devote to this most days, at least until I find a job.
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
-
-
-### Day 1: June 27, Monday
-
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+**Link to work:** [Nightlife App](https://github.com/ubershibs/nightlife-tracker)
