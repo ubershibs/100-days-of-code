@@ -6,7 +6,7 @@
 
 **Thoughts**: My first Angular app. So far so good.
 
-**Link to work**: [Nightlife App](https://github.com/ubershibs/nightlife-tracker)
+**Link to work**: [Nightlife Tracker App](https://github.com/ubershibs/nightlife-tracker)
 
 ### Day 1: June 23, 2016
 
@@ -14,12 +14,20 @@
 
 **Thoughts:** It feels like one hour a day is a vast underestimation of what I'll be able to devote to this most days, at least until I find a job.
 
-**Link to work:** [Nightlife App](https://github.com/ubershibs/nightlife-tracker)
+**Link to work:** [Nightlife Tracker App](https://github.com/ubershibs/nightlife-tracker)
 
 ### Day 2: June 24, 2016
 
 **Today's Progress**: Have RSVP result counts pulling properly and listing on user's page. Think I have removal done, but still haven't figured out how to get new clicks listed on profile.
 
 **Thoughts:** A truly one page app like this makes things a bit complicated.
+
+**Link to work:** [Nightlife Tracker App](https://github.com/ubershibs/nightlife-tracker)
+
+### Day 3: June 25, 2016
+
+**Today's Progress**: Ended up re-organizing my app fairly significantly for usability and easier codability. Almost done though!!
+
+**Thoughts:** Just found this Angular Style Guide that I think will be really helpful ([on github](https://github.com/johnpapa/angular-styleguide))
 
 **Link to work:** [Nightlife App](https://github.com/ubershibs/nightlife-tracker)
