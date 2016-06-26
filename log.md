@@ -26,8 +26,14 @@
 
 ### Day 3: June 25, 2016
 
-**Today's Progress**: Ended up re-organizing my app fairly significantly for usability and easier codability. Almost done though!!
+**Today's Progress**: Ended up re-organizing my app fairly significantly for better usability, and simpler coding. Almost done though!!
 
 **Thoughts:** Just found this Angular Style Guide that I think will be really helpful ([on github](https://github.com/johnpapa/angular-styleguide))
 
 **Link to work:** [Nightlife App](https://github.com/ubershibs/nightlife-tracker)
+
+### Day 4: June 26, 2016
+
+**Today's Progress**: Finished my Nightlife Tracker app. It's up at [https://nightlife-tracker.herokuapp.com](https://nightlife-tracker.herokuapp.com). Gonna update my portfolio to include it + my voting app and other back-end projects. I'm getting pretty close to done with the back-end certification.
+
+**Thoughts**: I think that Angular finally started to click in my brain yesterday/today. So that's good. I still wish that FCC had anywhere near as good material coverage for back-end topics as they do for their front-end program (or that Odin had an up-to-date, thorough, JS course).
