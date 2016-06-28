@@ -42,7 +42,7 @@
 - I just did a great tutorial on Gulp from CSS-Tricks that I would recommend to everyone check it if you aren't already familiar with Gulp. I'd been avoiding it, and had been confused by my interactions with it, but building up a script from scratch really clarified everything for me. You can check out [that tutorial here](https://css-tricks.com/gulp-for-beginners/).
 - I've only had my Nightlife Track app up for about 12 hours, and already, people have searched on it 90+ times (and I swear only a couple of those were me). From all over, too (by the cities they searched—-all I'm logging is their search term.) That's pretty neat!
 
-### Day 4: June 27, 2016
+### Day 5: June 27, 2016
 
 **Today's Progress**: Rather than starting in on a new project, I took time today to update my personal website and then dug in on JS unit testing for the first time. Added tests to my [timestamp microservice](https://github.com/ubershibs/timestamp).
 
