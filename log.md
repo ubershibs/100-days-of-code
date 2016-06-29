@@ -47,3 +47,7 @@
 **Today's Progress**: Rather than starting in on a new project, I took time today to update my personal website and then dug in on JS unit testing for the first time. Added tests to my [timestamp microservice](https://github.com/ubershibs/timestamp).
 
 **Thoughts**: I'm going to endeavour to add tests to everything I've built for the Back End track so far, and then try TDD for my next bigger project... Not committing to it, just to trying it.
+
+### Day 6: June 28, 2016
+
+**Today's Progress**: Learned more about unit testing. Specifically about writing tests for Mongoose models. Added some to my Voting App. Check them out [on Github](https://github.com/ubershibs/voting-app);
