@@ -51,3 +51,9 @@
 ### Day 6: June 28, 2016
 
 **Today's Progress**: Learned more about unit testing. Specifically about writing tests for Mongoose models. Added some to my Voting App. Check them out [on Github](https://github.com/ubershibs/voting-app);
+
+### Day 7: June 29, 2016
+
+**Today's Progress**: I really focused on applying for jobs today, so all I had time to do were two quick exercises on CodeEval, and a couple tutorials for D3 to get myself geared up for the next back end project, the stock market app.
+
+Link to work: you can check out my [CodeEval profile](https://www.codeeval.com/dashboard/), and the [github repo](https://github.com/ubershibs/codeeval) where I put all my solutions.
