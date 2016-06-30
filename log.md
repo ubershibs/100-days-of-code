@@ -57,3 +57,9 @@
 **Today's Progress**: I really focused on applying for jobs today, so all I had time to do were two quick exercises on CodeEval, and a couple tutorials for D3 to get myself geared up for the next back end project, the stock market app.
 
 Link to work: you can check out my [CodeEval profile](https://www.codeeval.com/dashboard/), and the [github repo](https://github.com/ubershibs/codeeval) where I put all my solutions.
+
+### Day 8: June 30, 2016
+
+**Todays Progress**: I'm skipping around a little bit, but I'm striking things off my to-do list, so no matter! Today's big accomplishment so far is that I added a new City Stats page to my Nightlife Tracker app. It gives a quick summary of searches performed—-top cities, recent searches, and total and weekly counts. I also (*proud*) wrote tests for the back-end of this new feature—-TDD! Not so much the client-side code, but it's a start!
+
+Link to my work: [City Stats](https://nightlife-tracker.herokuapp.com) / [Github repo](https://github.com/ubershibs/nightlife-tracker)
