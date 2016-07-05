@@ -68,6 +68,14 @@ Link to my work: [City Stats](https://nightlife-tracker.herokuapp.com) / [Github
 
 **Today's Progress**: Today I started my Stock Tracker app, but setting up the calls to retrieve data for a given stock, and to store the datasets for all currently displayed companies, and remove a company. There may be additional finessing to do to this data once I figure out how sockets work, and once I pick a charting tool/methodology, but I've got the data feeding into things nicely, and it was simpler than I expected. I'm using Quandl as my data source.
 
-### My day 10: July 2, 2016
+### Day 10: July 2, 2016
 
 **Today's Progress**: Today, I began adding Socket.io to my code. Nothing very exciting to report so far, but I'm tired and literally only had an hour to spend on coding today.
+
+### Day 11: July 3, 2016
+
+**Today's Progress**: Got an initial set of socket.io calls up and running. Next step is to get them working witht real data & database/api calls. This is fun.
+
+### Day 12: July 4, 2016
+
+**Today's Progress**: First time using Socket.io (outside of a tutorial), and it has its complexities. Need to look into the best way to transmit fairly sizeable chunks of data tomorrow.
