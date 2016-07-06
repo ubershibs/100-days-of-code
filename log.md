@@ -79,3 +79,9 @@ Link to my work: [City Stats](https://nightlife-tracker.herokuapp.com) / [Github
 ### Day 12: July 4, 2016
 
 **Today's Progress**: First time using Socket.io (outside of a tutorial), and it has its complexities. Need to look into the best way to transmit fairly sizeable chunks of data tomorrow.
+
+### Day 13: July 5, 2016
+
+**Today's Progress**: Finally cracked the nut on the Stock Tracker app--'the nut' in this case being the synchronization between the chart, the list of stocks, and the db, light as it is, between all users. Will post the project for feedback tomorrow. Excited!
+
+Link to my work: [Stock Tracker on Github](https://github.com/ubershibs/stock-tracker)w
