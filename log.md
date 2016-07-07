@@ -91,3 +91,5 @@ Link to my work: [Stock Tracker on Github](https://github.com/ubershibs/stock-tr
 **Today's Progress**: Milestone! I got my stock charting app done and out the door. Had to make a few tweaks once it was deployed and up on Reddit/Twitter, namely that I made error messages fade out after 2 seconds. After some job hunting, I started thinking about the design of my next project, a book trading club app.
 
 **Thoughts**: It was pretty cool to watch my stock market app go wild once I posted it on Reddit/FB/Twitter. The chart was changing every couple of seconds. I have no clue how many people used it... Hoping my Google Analytics catch up overnight. In the mid-afternoon, there was a weird issue where every stock I tried entering failed, and it seemed like it was happening across the board--the chart went from jam-packed to empty. Restarting the app on Heroku resolved the issue, but I still have no clue what was going on. Need to look into tools/tips for dealing with logs/tracking down the root causes of issues like that.
+
+Link: [Stock Tracker](https://ubershibs-stock-tracker.herokuapp.com) - live on Heroku
