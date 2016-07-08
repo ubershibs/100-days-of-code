@@ -93,3 +93,9 @@ Link to my work: [Stock Tracker on Github](https://github.com/ubershibs/stock-tr
 **Thoughts**: It was pretty cool to watch my stock market app go wild once I posted it on Reddit/FB/Twitter. The chart was changing every couple of seconds. I have no clue how many people used it... Hoping my Google Analytics catch up overnight. In the mid-afternoon, there was a weird issue where every stock I tried entering failed, and it seemed like it was happening across the board--the chart went from jam-packed to empty. Restarting the app on Heroku resolved the issue, but I still have no clue what was going on. Need to look into tools/tips for dealing with logs/tracking down the root causes of issues like that.
 
 Link: [Stock Tracker](https://ubershibs-stock-tracker.herokuapp.com) - live on Heroku
+
+## Day 15: July 7, 2016
+
+**Today's Progress**: Today, I learned about the famo.us physics engine briefly, after seeing it mentioned on a job posting, then I focused my engery on the next project for Free Code Camp--the book trading club. I've decided to make it another Angular app, and to use Angular Material for the design. There's a bit of a learning curve to that so far, but I've got it pulling books from the Google Books API already, and looking half decent in doing it.
+
+![Image of site so far](https://67.media.tumblr.com/fa665c0dd17e5c407a6bea5fa8c65e64/tumblr_o9zcpea2Di1qz7w1oo1_1280.png)
