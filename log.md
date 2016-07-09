@@ -99,3 +99,7 @@ Link: [Stock Tracker](https://ubershibs-stock-tracker.herokuapp.com) - live on H
 **Today's Progress**: Today, I learned about the famo.us physics engine briefly, after seeing it mentioned on a job posting, then I focused my engery on the next project for Free Code Camp--the book trading club. I've decided to make it another Angular app, and to use Angular Material for the design. There's a bit of a learning curve to that so far, but I've got it pulling books from the Google Books API already, and looking half decent in doing it.
 
 ![Image of site so far](https://67.media.tumblr.com/fa665c0dd17e5c407a6bea5fa8c65e64/tumblr_o9zcpea2Di1qz7w1oo1_1280.png)
+
+## Day 16: July 8, 2016
+
+**Today's Progress**: Plugged away on my book trading app. Learning about Angular Material... Getting quite a bit more comfortable with Angular.
