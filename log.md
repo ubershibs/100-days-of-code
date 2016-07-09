@@ -102,4 +102,4 @@ Link: [Stock Tracker](https://ubershibs-stock-tracker.herokuapp.com) - live on H
 
 ## Day 16: July 8, 2016
 
-**Today's Progress**: Plugged away on my book trading app. Learning about Angular Material... Getting quite a bit more comfortable with Angular.
+**Today's Progress**: Plugged away on my book trading app. Learning about Angular Material... Getting quite a bit more comfortable with Angular. Also did a bunch of Ruby exercises on HackerRank. Drove my rank up ~2000 places in one evening. Nice.
