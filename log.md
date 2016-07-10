@@ -103,3 +103,7 @@ Link: [Stock Tracker](https://ubershibs-stock-tracker.herokuapp.com) - live on H
 ## Day 16: July 8, 2016
 
 **Today's Progress**: Plugged away on my book trading app. Learning about Angular Material... Getting quite a bit more comfortable with Angular. Also did a bunch of Ruby exercises on HackerRank. Drove my rank up ~2000 places in one evening. Nice.
+
+## Day 17: July 9, 2016
+
+**Today's progress**: Still learning more about Angular Material. Added a sidenav to the app, fixed the layout to use ngMaterial rather than fight it, which seems to be my natural instinct. And did a few more Hackerrank challenges. Still finding Codeeval.com to be the better site.
