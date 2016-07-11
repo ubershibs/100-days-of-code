@@ -107,3 +107,7 @@ Link: [Stock Tracker](https://ubershibs-stock-tracker.herokuapp.com) - live on H
 ## Day 17: July 9, 2016
 
 **Today's progress**: Still learning more about Angular Material. Added a sidenav to the app, fixed the layout to use ngMaterial rather than fight it, which seems to be my natural instinct. And did a few more Hackerrank challenges. Still finding Codeeval.com to be the better site.
+
+## Day 18: July 10, 2016
+
+**Today's Progres**: Very little. I'm spending too much time trying to figure out the ins and outs of Angular Materials layout. Gonna focus on getting all the functionality I need built, and then circle back to perfecting the layout.
