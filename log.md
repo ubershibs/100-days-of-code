@@ -111,3 +111,7 @@ Link: [Stock Tracker](https://ubershibs-stock-tracker.herokuapp.com) - live on H
 ## Day 18: July 10, 2016
 
 **Today's Progres**: Very little. I'm spending too much time trying to figure out the ins and outs of Angular Materials layout. Gonna focus on getting all the functionality I need built, and then circle back to perfecting the layout.
+
+## Day 19: July 11, 2016
+
+**Today's Progress**: Got the back end of the authentication system done. Tomorrow's task will be wiring it up to the front end. Decided to keep on keeping on with Angular Material... The custom directives make it pretty annoying to pull out, or to stick back in later. Getting a lot more comfortable with it now.
