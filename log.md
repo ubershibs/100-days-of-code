@@ -115,3 +115,7 @@ Link: [Stock Tracker](https://ubershibs-stock-tracker.herokuapp.com) - live on H
 ## Day 19: July 11, 2016
 
 **Today's Progress**: Got the back end of the authentication system done. Tomorrow's task will be wiring it up to the front end. Decided to keep on keeping on with Angular Material... The custom directives make it pretty annoying to pull out, or to stick back in later. Getting a lot more comfortable with it now.
+
+## Day 20: July 12, 2016
+
+**Today's Progress**: Got authentication up and running. Working on building out the profile, building up user's collections, and making an all books page next.
