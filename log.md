@@ -119,3 +119,9 @@ Link: [Stock Tracker](https://ubershibs-stock-tracker.herokuapp.com) - live on H
 ## Day 20: July 12, 2016
 
 **Today's Progress**: Got authentication up and running. Working on building out the profile, building up user's collections, and making an all books page next.
+
+## Day 21: July 13, 2016
+
+**Today's Progress**: Made a lot of headway today. You can now log in and add books to your collections, as well as remove them. The sidenav works, and changes state depending on your logged in status. And I'm close to having the All Books page up and running. I think I can wrap this up by the weekend.
+
+![Book Trading Club screenshot](https://66.media.tumblr.com/b48a8f7afd87bf1edd118095724ea0dd/tumblr_oa9yslrf071qz7w1oo1_540.png)
