@@ -125,3 +125,29 @@ Link: [Stock Tracker](https://ubershibs-stock-tracker.herokuapp.com) - live on H
 **Today's Progress**: Made a lot of headway today. You can now log in and add books to your collections, as well as remove them. The sidenav works, and changes state depending on your logged in status. And I'm close to having the All Books page up and running. I think I can wrap this up by the weekend.
 
 ![Book Trading Club screenshot](https://66.media.tumblr.com/b48a8f7afd87bf1edd118095724ea0dd/tumblr_oa9yslrf071qz7w1oo1_540.png)
+
+## Day 22: July 14, 2016
+
+**Today's Progress**: Did a bunch of HackerRank challenges, and plugged away at my book site. Starting to feel a bit stuck.
+
+## Day 23: July 15, 2016
+
+**Today's Progress**: There goes my goal of getting this finished off over the weekend. Feel like I'm still fighting with layout more than anything. Well, layout, and data not updating when I think it should, namely my sidenav menu. Ugh.
+
+## Day 24: July 16, 2016
+
+**Today's Progress**: More HackerRank today, to try to get my mind off of the Book Trade site. That and a scan of a few older projects to make notes/start in on things I want to improve on, to have a more solid portfolio.
+
+## Day 25: July 17, 2016
+
+**Today's Progress**: Starting to get some momentum again on the book trading site.
+
+## Day 26: July 18. 2016
+
+**Today's Progress**: Had something of an overnight marathon and finally got a lot of functionality up and running. You can now see a list of all books (de-duped but not yet paginated), and each user has a wishlist to which they can add books, to kick off a trade.
+
+### The profile
+![The profile](https://67.media.tumblr.com/a7fd2581983181cd02c97c39ab3bc4e1/tumblr_oaixesHRuc1qz7w1oo1_540.png)
+
+## The all-books page
+![The all books page](https://67.media.tumblr.com/2b1798fc85f14b8ae25a9a979e1a2b28/tumblr_oaixesHRuc1qz7w1oo2_1280.png)
