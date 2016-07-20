@@ -142,7 +142,7 @@ Link: [Stock Tracker](https://ubershibs-stock-tracker.herokuapp.com) - live on H
 
 **Today's Progress**: Starting to get some momentum again on the book trading site.
 
-## Day 26: July 18. 2016
+## Day 26: July 18, 2016
 
 **Today's Progress**: Had something of an overnight marathon and finally got a lot of functionality up and running. You can now see a list of all books (de-duped but not yet paginated), and each user has a wishlist to which they can add books, to kick off a trade.
 
@@ -151,3 +151,11 @@ Link: [Stock Tracker](https://ubershibs-stock-tracker.herokuapp.com) - live on H
 
 ## The all-books page
 ![The all books page](https://67.media.tumblr.com/2b1798fc85f14b8ae25a9a979e1a2b28/tumblr_oaixesHRuc1qz7w1oo2_1280.png)
+
+## Day 27: July 19, 2016
+
+**Today's progress**: I got the wishlist logic working properly, and began working on the pending trade logic. It's relatively complicated, since I have to get the ID's of each book that has been wish listed, then find all the users with this book currently in their collection, and in their interface, let them know a user from X location has wants the title. Pretty neat. I also figured out how to use md-select on the state/province field, which should keep user input consistent. Next: setting up autosuggestion on the city. 
+
+**Thoughts**: Really trying to pack as much learning about Angular Material, as well as best practices for writing Angular apps, as I can into this app. It's definitely slowing me down (I also haven't had as much time each day to devote to coding as I have on other projects, but this is a good app for it, because the relatively large feature set gives me lots of opportunity to try out a lot of directives/really get a handle on the flexbox-based layout system. That said, I am really excited to get a fully functional first iteration out the door.
+
+See my work: https://github.com/ubershibs/book-trading-club/
