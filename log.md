@@ -159,3 +159,15 @@ Link: [Stock Tracker](https://ubershibs-stock-tracker.herokuapp.com) - live on H
 **Thoughts**: Really trying to pack as much learning about Angular Material, as well as best practices for writing Angular apps, as I can into this app. It's definitely slowing me down (I also haven't had as much time each day to devote to coding as I have on other projects, but this is a good app for it, because the relatively large feature set gives me lots of opportunity to try out a lot of directives/really get a handle on the flexbox-based layout system. That said, I am really excited to get a fully functional first iteration out the door.
 
 See my work: https://github.com/ubershibs/book-trading-club/
+
+## Day 28: July 20, 2016
+
+**Today's progress**: Played more with the formatting of the profile page, and added some missing details, like alt tags on images. Started (very initial work only) to layout out trade logic.
+
+## Day 29: July 21, 2016
+
+**Today's progress**: Disaster today: the profile stopped working altogether. I was tired, and wasted most of the hour I had to devote to my book app to figuring out what was going on. Ended up just aplying for jobs.
+
+## Day 30: July 22, 2016
+
+**Today's progress**: Thank god for version history... I had somehow managed to just delete the entire contents of my profile html file, and didn't notice. Easy to fix. Anyway, after today's session, the app can now identify when a user has books that others have wishlisted, and put them in a 'pending trades' table for the user to approve. 
