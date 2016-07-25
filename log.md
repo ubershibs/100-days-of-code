@@ -86,7 +86,7 @@ Link to my work: [City Stats](https://nightlife-tracker.herokuapp.com) / [Github
 
 Link to my work: [Stock Tracker on Github](https://github.com/ubershibs/stock-tracker)
 
-## Day  14: July 6, 2016
+### Day  14: July 6, 2016
 
 **Today's Progress**: Milestone! I got my stock charting app done and out the door. Had to make a few tweaks once it was deployed and up on Reddit/Twitter, namely that I made error messages fade out after 2 seconds. After some job hunting, I started thinking about the design of my next project, a book trading club app.
 
@@ -94,65 +94,65 @@ Link to my work: [Stock Tracker on Github](https://github.com/ubershibs/stock-tr
 
 Link: [Stock Tracker](https://ubershibs-stock-tracker.herokuapp.com) - live on Heroku
 
-## Day 15: July 7, 2016
+### Day 15: July 7, 2016
 
 **Today's Progress**: Today, I learned about the famo.us physics engine briefly, after seeing it mentioned on a job posting, then I focused my engery on the next project for Free Code Camp--the book trading club. I've decided to make it another Angular app, and to use Angular Material for the design. There's a bit of a learning curve to that so far, but I've got it pulling books from the Google Books API already, and looking half decent in doing it.
 
 ![Image of site so far](https://67.media.tumblr.com/fa665c0dd17e5c407a6bea5fa8c65e64/tumblr_o9zcpea2Di1qz7w1oo1_1280.png)
 
-## Day 16: July 8, 2016
+### Day 16: July 8, 2016
 
 **Today's Progress**: Plugged away on my book trading app. Learning about Angular Material... Getting quite a bit more comfortable with Angular. Also did a bunch of Ruby exercises on HackerRank. Drove my rank up ~2000 places in one evening. Nice.
 
-## Day 17: July 9, 2016
+### Day 17: July 9, 2016
 
 **Today's progress**: Still learning more about Angular Material. Added a sidenav to the app, fixed the layout to use ngMaterial rather than fight it, which seems to be my natural instinct. And did a few more Hackerrank challenges. Still finding Codeeval.com to be the better site.
 
-## Day 18: July 10, 2016
+### Day 18: July 10, 2016
 
 **Today's Progres**: Very little. I'm spending too much time trying to figure out the ins and outs of Angular Materials layout. Gonna focus on getting all the functionality I need built, and then circle back to perfecting the layout.
 
-## Day 19: July 11, 2016
+### Day 19: July 11, 2016
 
 **Today's Progress**: Got the back end of the authentication system done. Tomorrow's task will be wiring it up to the front end. Decided to keep on keeping on with Angular Material... The custom directives make it pretty annoying to pull out, or to stick back in later. Getting a lot more comfortable with it now.
 
-## Day 20: July 12, 2016
+### Day 20: July 12, 2016
 
 **Today's Progress**: Got authentication up and running. Working on building out the profile, building up user's collections, and making an all books page next.
 
-## Day 21: July 13, 2016
+### Day 21: July 13, 2016
 
 **Today's Progress**: Made a lot of headway today. You can now log in and add books to your collections, as well as remove them. The sidenav works, and changes state depending on your logged in status. And I'm close to having the All Books page up and running. I think I can wrap this up by the weekend.
 
 ![Book Trading Club screenshot](https://66.media.tumblr.com/b48a8f7afd87bf1edd118095724ea0dd/tumblr_oa9yslrf071qz7w1oo1_540.png)
 
-## Day 22: July 14, 2016
+### Day 22: July 14, 2016
 
 **Today's Progress**: Did a bunch of HackerRank challenges, and plugged away at my book site. Starting to feel a bit stuck.
 
-## Day 23: July 15, 2016
+### Day 23: July 15, 2016
 
 **Today's Progress**: There goes my goal of getting this finished off over the weekend. Feel like I'm still fighting with layout more than anything. Well, layout, and data not updating when I think it should, namely my sidenav menu. Ugh.
 
-## Day 24: July 16, 2016
+### Day 24: July 16, 2016
 
 **Today's Progress**: More HackerRank today, to try to get my mind off of the Book Trade site. That and a scan of a few older projects to make notes/start in on things I want to improve on, to have a more solid portfolio.
 
-## Day 25: July 17, 2016
+### Day 25: July 17, 2016
 
 **Today's Progress**: Starting to get some momentum again on the book trading site.
 
-## Day 26: July 18, 2016
+### Day 26: July 18, 2016
 
 **Today's Progress**: Had something of an overnight marathon and finally got a lot of functionality up and running. You can now see a list of all books (de-duped but not yet paginated), and each user has a wishlist to which they can add books, to kick off a trade.
 
 ### The profile
 ![The profile](https://67.media.tumblr.com/a7fd2581983181cd02c97c39ab3bc4e1/tumblr_oaixesHRuc1qz7w1oo1_540.png)
 
-## The all-books page
+### The all-books page
 ![The all books page](https://67.media.tumblr.com/2b1798fc85f14b8ae25a9a979e1a2b28/tumblr_oaixesHRuc1qz7w1oo2_1280.png)
 
-## Day 27: July 19, 2016
+### Day 27: July 19, 2016
 
 **Today's progress**: I got the wishlist logic working properly, and began working on the pending trade logic. It's relatively complicated, since I have to get the ID's of each book that has been wish listed, then find all the users with this book currently in their collection, and in their interface, let them know a user from X location has wants the title. Pretty neat. I also figured out how to use md-select on the state/province field, which should keep user input consistent. Next: setting up autosuggestion on the city. 
 
@@ -160,14 +160,34 @@ Link: [Stock Tracker](https://ubershibs-stock-tracker.herokuapp.com) - live on H
 
 See my work: https://github.com/ubershibs/book-trading-club/
 
-## Day 28: July 20, 2016
+### Day 28: July 20, 2016
 
 **Today's progress**: Played more with the formatting of the profile page, and added some missing details, like alt tags on images. Started (very initial work only) to layout out trade logic.
 
-## Day 29: July 21, 2016
+### Day 29: July 21, 2016
 
 **Today's progress**: Disaster today: the profile stopped working altogether. I was tired, and wasted most of the hour I had to devote to my book app to figuring out what was going on. Ended up just aplying for jobs.
 
-## Day 30: July 22, 2016
+### Day 30: July 22, 2016
 
 **Today's progress**: Thank god for version history... I had somehow managed to just delete the entire contents of my profile html file, and didn't notice. Easy to fix. Anyway, after today's session, the app can now identify when a user has books that others have wishlisted, and put them in a 'pending trades' table for the user to approve. 
+
+### Day 31: July 23, 2016
+
+**Today's progress**: Didn't have a lot of time today, so focused on fixing some issues with my website/old projects. 
+
+### Day 32: July 24, 2016
+
+**Today's progress**: Started in on the "Approve/Initiate Trade" logic. It'll be the most complicated piece--when a user clicks Approve Trade:
+* They donor sees the recipient's email address and name.
+* The donor sees a "Cancel Trade" button, which readds the book to their collection and to the recipient's wishlist.
+* The book is removed from the collection (they are kept on as a pastowner) - this way, they no longer see trades for titles in their collection already committed to others.
+* The book is removed from the recipient's wishlist, but not yet added to their collection, so that they aren't bothered by trade requests before they actually have receive a book.
+* The recipient sees a new entry in their in progress trades section, telling them a user has agreed to give them a copy of the book, and provides their name/contact.
+* The recipient sees a "Trade Completed" button, which they press to indicate they have received the book.
+
+So far I have just sketched out the functionality and figured out what data I'll need to be able to present at various stages, and made a schema for trades.
+
+### Day 33: July 25, 2016
+
+**Today's progress**: Today, I started in on coding the logic I sorted out yesterday. It proved frustrating... I'm pretty tired. It's not functional yet... But I did significantly improve error handling on the server side of my app, at least.
