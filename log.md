@@ -191,3 +191,7 @@ So far I have just sketched out the functionality and figured out what data I'll
 ### Day 33: July 25, 2016
 
 **Today's progress**: Today, I started in on coding the logic I sorted out yesterday. It proved frustrating... I'm pretty tired. It's not functional yet... But I did significantly improve error handling on the server side of my app, at least.
+
+### Day 34: July 26, 2016
+
+**Today's progress**: Today, I think I've pretty much hammered out the bulk of the functionality required for the Book Trade App. I've got everything except the very last step, idicating your trade is complete), wired up and pretty much good to go. Just having an issue with that last bit, and I believe it may have more to do with my decision to refactor out the original profile controller into smaller chunks, given I've done the same with the views. I'll get it all sorted in the morning. 
