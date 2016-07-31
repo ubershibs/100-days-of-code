@@ -154,7 +154,7 @@ Link: [Stock Tracker](https://ubershibs-stock-tracker.herokuapp.com) - live on H
 
 ### Day 27: July 19, 2016
 
-**Today's progress**: I got the wishlist logic working properly, and began working on the pending trade logic. It's relatively complicated, since I have to get the ID's of each book that has been wish listed, then find all the users with this book currently in their collection, and in their interface, let them know a user from X location has wants the title. Pretty neat. I also figured out how to use md-select on the state/province field, which should keep user input consistent. Next: setting up autosuggestion on the city. 
+**Today's progress**: I got the wishlist logic working properly, and began working on the pending trade logic. It's relatively complicated, since I have to get the ID's of each book that has been wish listed, then find all the users with this book currently in their collection, and in their interface, let them know a user from X location has wants the title. Pretty neat. I also figured out how to use md-select on the state/province field, which should keep user input consistent. Next: setting up autosuggestion on the city.
 
 **Thoughts**: Really trying to pack as much learning about Angular Material, as well as best practices for writing Angular apps, as I can into this app. It's definitely slowing me down (I also haven't had as much time each day to devote to coding as I have on other projects, but this is a good app for it, because the relatively large feature set gives me lots of opportunity to try out a lot of directives/really get a handle on the flexbox-based layout system. That said, I am really excited to get a fully functional first iteration out the door.
 
@@ -170,18 +170,18 @@ See my work: https://github.com/ubershibs/book-trading-club/
 
 ### Day 30: July 22, 2016
 
-**Today's progress**: Thank god for version history... I had somehow managed to just delete the entire contents of my profile html file, and didn't notice. Easy to fix. Anyway, after today's session, the app can now identify when a user has books that others have wishlisted, and put them in a 'pending trades' table for the user to approve. 
+**Today's progress**: Thank god for version history... I had somehow managed to just delete the entire contents of my profile html file, and didn't notice. Easy to fix. Anyway, after today's session, the app can now identify when a user has books that others have wishlisted, and put them in a 'pending trades' table for the user to approve.
 
 ### Day 31: July 23, 2016
 
-**Today's progress**: Didn't have a lot of time today, so focused on fixing some issues with my website/old projects. 
+**Today's progress**: Didn't have a lot of time today, so focused on fixing some issues with my website/old projects.
 
 ### Day 32: July 24, 2016
 
 **Today's progress**: Started in on the "Approve/Initiate Trade" logic. It'll be the most complicated piece--when a user clicks Approve Trade:
 * They donor sees the recipient's email address and name.
-* The donor sees a "Cancel Trade" button, which readds the book to their collection and to the recipient's wishlist.
-* The book is removed from the collection (they are kept on as a pastowner) - this way, they no longer see trades for titles in their collection already committed to others.
+* The donor sees a "Cancel Trade" button, which reads the book to their collection and to the recipient's wishlist.
+* The book is removed from the collection (they are kept on as a past owner) - this way, they no longer see trades for titles in their collection already committed to others.
 * The book is removed from the recipient's wishlist, but not yet added to their collection, so that they aren't bothered by trade requests before they actually have receive a book.
 * The recipient sees a new entry in their in progress trades section, telling them a user has agreed to give them a copy of the book, and provides their name/contact.
 * The recipient sees a "Trade Completed" button, which they press to indicate they have received the book.
@@ -194,4 +194,20 @@ So far I have just sketched out the functionality and figured out what data I'll
 
 ### Day 34: July 26, 2016
 
-**Today's progress**: Today, I think I've pretty much hammered out the bulk of the functionality required for the Book Trade App. I've got everything except the very last step, idicating your trade is complete), wired up and pretty much good to go. Just having an issue with that last bit, and I believe it may have more to do with my decision to refactor out the original profile controller into smaller chunks, given I've done the same with the views. I'll get it all sorted in the morning. 
+**Today's progress**: Today, I think I've pretty much hammered out the bulk of the functionality required for the Book Trade App. I've got everything except the very last step, indicating your trade is complete), wired up and pretty much good to go. Just having an issue with that last bit, and I believe it may have more to do with my decision to refactor out the original profile controller into smaller chunks, given I've done the same with the views. I'll get it all sorted in the morning.
+
+### Day 35: July 27, 2016
+
+**Today's progress**: I revamped the views, per my plan yesterday. Things are a lot more cohesive and easier to manage than they were before... But I ate up the better part of my day sorting out the changes to the front-end. Haven't gotten to the refactor yet. Did introduce better error handling to the Express side of things... Need to do the same for the Angular side.
+
+### Day 36: July 28, 2016
+
+**Today's progress**: I fucked something up good today. I'm now getting 403 errors from the Google Books API, and can't figure out what the hell is going on.... Crap.
+
+### Day 37: July 29, 2016
+
+**Today's progress**: Today I decided to learn about testing. I downloaded a slightly outdated copy of my code from my last push to github (thank god for git), and wrote some tests for the search component. Then I began reintroducing the changes I'd made since then one by one, running mocha after each file was updated. Also refactored some of the code I'd been wanting to in the process, so I never figured out exactly what was going on... But it likely had something to do with me screwing up promises somewhere, or (or more likely, AND) my attempt to introduce error handling on the back end.
+
+## Day 38: July 30, 2016
+
+**Today's progress**: Today's priority had been to get the initiate/complete/cancel logic all hammered out for trades, but I got sidetracked realizing that some of my pages were fucked up in Safari or on mobile. So I spent quite a while getting them all sorted, but finally managed to, and I feel like I have a much better understanding of Angular Material as a result. So tomorrow... Hopefully tomorrow I'll get the logic all sorted.
