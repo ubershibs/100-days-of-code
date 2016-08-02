@@ -211,3 +211,16 @@ So far I have just sketched out the functionality and figured out what data I'll
 ## Day 38: July 30, 2016
 
 **Today's progress**: Today's priority had been to get the initiate/complete/cancel logic all hammered out for trades, but I got sidetracked realizing that some of my pages were fucked up in Safari or on mobile. So I spent quite a while getting them all sorted, but finally managed to, and I feel like I have a much better understanding of Angular Material as a result. So tomorrow... Hopefully tomorrow I'll get the logic all sorted.
+
+## Day 39: July 31, 2016
+
+**Today's progress**: Almost done. Finally. I keep bumping into issues where one change I make proves to be disastrous, and a whole section of my app not to work for a while, but I'm being careful, working incrementally, saving often, and 'testing', aka running my two tests and then checking the rest by hand, often. Will be able to deploy this tomorrow, for sure.
+
+## Day 40: August 1, 2016
+
+**Today's progress**: Finished! Well, finished enough to share for some feedback. Here are some screenshots:
+![Book Trade Mobile Screens](http://67.media.tumblr.com/bdcaee3e2fa0a8b16875e1dd1b27f2a0/tumblr_ob9l262lo61qz7w1oo1_1280.png)
+
+I've still got more work to do, but am pretty happy with it for now.
+
+**Links to my work**: [Book Trade on Heroku](http://ubershibs-book-trade.herokuapp.com), [Github repo](https://github.com/ubershibs/book-trading-club)
