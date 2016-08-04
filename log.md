@@ -224,3 +224,18 @@ So far I have just sketched out the functionality and figured out what data I'll
 I've still got more work to do, but am pretty happy with it for now.
 
 **Links to my work**: [Book Trade on Heroku](http://ubershibs-book-trade.herokuapp.com), [Github repo](https://github.com/ubershibs/book-trading-club)
+
+## Day 41: August 2, 2016
+
+**Today's progress**: Shared my book trading app on Reddit and the FCC Toronto Facebook group, as well as Linked In, and got a little bit of feedback, which I incorporated and redeployed. Nice to have people using things, though would be really nice to build something actually useful. I think that after my pinterest clone, rather than start FCC's data viz track right away, I'm going to try to find something actually useful I can build, or an open-source project I can contribute to (also, a job).
+
+Other than Book Trade improvements, I began planning out the Picterest, my pinterest clone, by checking out the sample app and videos, making note of the user stories, and investigating different libraries and tools I could use to make this a quick job.
+
+## Day 42: August 3, 2016
+
+**Today's Progress**: Began by building an express server, and working on Twitter authentication. I've left room to add Github/FB/etc later, but the stories only require Twitter, so I'm starting there.
+
+Debating whether to use Angular for this, or whether just to use Swig templates. Swig would be faster... I'll get the back-end fleshed out first, then decide.
+
+**Link to my work**: I'll be storing my code in this repo: https://github.com/ubershibs/picterest.
+I'll post a Heroku link as soon as i have one, and will post screenshots as often as I can.
