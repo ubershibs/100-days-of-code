@@ -239,3 +239,13 @@ Debating whether to use Angular for this, or whether just to use Swig templates.
 
 **Link to my work**: I'll be storing my code in this repo: https://github.com/ubershibs/picterest.
 I'll post a Heroku link as soon as i have one, and will post screenshots as often as I can.
+
+## Days 43-51, August 4-12, 2016
+
+**Today's Progress**: I've been really bad about logging my work, but I swear, I have been doing a lot of it. After some initial issues setting up Passport for authentication, I decided to look into other options. I found one called Satellizer that seemed to do everything I wanted - log in to various social sites, store a token in Local Storage, was purpose-built to work with Angular. So I decided to give it a go.
+
+Unfortunately, the documentation is a bit... lacking. With Satellizer, you have to set up all the back-end calls yourself. There are a couple of example apps, but they weren't much help. I took the code from one of them and adapted it to what seemed like should work for Github, but it didn't. Once I finally figured out that an additional API call was required, I decided just to build out my own back-end from scratch, and throw out the example. It's taken a while, but I have github authentication working, and it shouldn't take long to get up and running with Twitter auth.
+
+I've also got a pretty solid front end. I've added a modal to add pictures, and am just working on sorting out the logic for that as we speak.
+
+Last thought: Just got the "my pics" view working — I was having trouble retrieving a specific user's pics from the db, but it was because of my dummy data. Yay!
